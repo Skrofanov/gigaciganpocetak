@@ -23,7 +23,7 @@ const Tabela = props => {
             </tr>
         </table>
         </Fragment>
-    )
+    );
 }
 
 export default Tabela;
